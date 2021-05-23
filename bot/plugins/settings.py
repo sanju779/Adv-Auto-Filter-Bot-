@@ -64,7 +64,7 @@ async def settings(bot, update):
         [
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close🔰", callback_data="close"
                 )
         ]
     ]
